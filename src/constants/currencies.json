@@ -1,0 +1,34 @@
+[
+    {
+      "label": "Indian Rupees",
+      "value": "INR"
+    },
+    {
+      "label": "Australian Dollar",
+      "value": "AUD"
+    },
+    {
+      "label": "US Dollar",
+      "value": "USD"
+    },
+    {
+      "label": "Canadian Dollar",
+      "value": "CAD"
+    },
+    {
+      "label": "Euro",
+      "value": "EUR"
+    },
+    {
+      "label": "British Pound",
+      "value": "GBP"
+    },
+    {
+      "label": "Japanese Yen",
+      "value": "JPY"
+    },
+    {
+      "label": "Chinese Yuan",
+      "value": "CNY"
+    }      
+]
